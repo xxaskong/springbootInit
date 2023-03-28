@@ -1,6 +1,6 @@
 spring:
   application:
-    name: springboot-init-old
+    name: springboot-init
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
